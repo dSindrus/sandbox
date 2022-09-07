@@ -1,3 +1,3 @@
 # sandbox
 testområde
-Test, test, tests
+Dette er et test-område for å krangle litt med git
